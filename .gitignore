@@ -1,0 +1,12 @@
+# Ignore node modules (frontend & backend)
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore React build output
+build/
+dist/
+
+# OS / editor junk
+.DS_Store
